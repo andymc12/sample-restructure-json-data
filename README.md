@@ -57,4 +57,4 @@ mvn clean package liberty:run
 
 Then browse to http://localhost:9080/ - that page has links to invoke the JAX-RS Client and MicroProfile Rest Client.
 
-This sample is part of a blog post that is available at https://andymc12.net/ - enjoy!
+This sample is part of a blog post that is available at https://andymc12.net/2021/06/09/restructuring-json-with-jax-rs-readerinterceptors-and-a-little-bit-of-json-b-magic/ - enjoy!
